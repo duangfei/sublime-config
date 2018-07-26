@@ -1,0 +1,65 @@
+{
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/Colorcoder/Mariana (Colorcoded).tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.DS_Store",
+		"*.pyc",
+		"*.git"
+	],
+	"find_selected_text": true,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+	],
+	"font_face": "Menlo",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 1.3,
+	"line_padding_top": 1.5,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"new_window_settings":
+	{
+		"hide_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"original_color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"show_minimap": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": false,
+	"vintage_start_in_command_mode": false,
+	"wide_caret": true,
+	"word_wrap": true
+}

@@ -1,0 +1,6 @@
+{
+"apply_with_dash_hack_syntaxes": ["source.scss","source.sass","source.css","text.html"],
+
+"word_separators": [ "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"]
+
+}
